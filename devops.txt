@@ -1,5 +1,0 @@
-git
-sonarqube
-jenkins
-tomcat
-jfrog

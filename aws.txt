@@ -1,4 +1,0 @@
-codecommit
-codebuild
-codeartifact
-s3
